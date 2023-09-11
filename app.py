@@ -33,8 +33,8 @@ def two_params():
             # "utc_time": utc_time,
             "utc_time": utc_time,
             "track": track,
-            "github_file_url": "https://github.com/username/repo/blob/main/file_name.ext",
-            "github_repo_url": "https://github.com/username/repo",
+            "github_file_url": "https://github.com/mikeolams/hngx-stage1/blob/main/app.py",
+            "github_repo_url": "https://github.com/mikeolams/hngx-stage1",
             "status_code": 200
             }
     return  result
